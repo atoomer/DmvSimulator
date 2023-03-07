@@ -11,6 +11,6 @@ public class DmvSimulator{
         for(int i = 1; i <= waitNum; i++){
             System.out.print(i + " ");
         }
-        System.out.println("\nSorry, you do not have the correct paperwork.");
+        System.out.println("\nGet the right paperwork this instant or else!");
     }
 }

@@ -16,7 +16,7 @@ public class DmvSimulator{
             System.out.println("\nYou have all the required paperwork. You are all set!");
         }
         else{
-            System.out.println("\nGet the right paperwork this instant or else!");
+            System.out.println("\nGet the right paperwork this instant or else! MWAHAHAHAHAHA!!!");
         }
     }
 }
